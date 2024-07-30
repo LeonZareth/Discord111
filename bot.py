@@ -107,4 +107,4 @@ async def check(ctx):
                 await ctx.send("hA OcuRido Alg0 Mq1")   
     else:
         await ctx.send("No se subio la imagen asi q no puedo saber q faccion es")
-bot.run('MTIwOTYxNzI3NDc2ODcyODEwNA.GcKAEm.ovOa4yDMZaF_PJl2mmYZO2vfst65SJc7UZpgRw')
+bot.run('algo111')
