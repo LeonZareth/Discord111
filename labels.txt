@@ -1,0 +1,7 @@
+0 camera
+1 tv
+2 speaker
+3 clock
+4 drill
+5 otros
+6 fan
